@@ -27,9 +27,9 @@
 - ⚡ Fun fact: I'd rather build a working automation than write a to-do list
 
 </td>
-<td valign="top" width="40%" align="center">
+<td valign="middle" width="40%" align="center">
 
-<img src="https://drive.google.com/uc?export=view&id=1J1GtTe5z5O4l8ukVwG0gk9HjZQxsqv-2" width="150" style="border-radius: 50%;"/>
+<img src="YOUR_IMAGE_URL" width="220" height="220" style="border-radius: 50%; object-fit: cover;"/>
 
 </td>
 </tr>
