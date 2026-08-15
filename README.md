@@ -29,7 +29,7 @@
 </td>
 <td valign="top" width="40%" align="center">
 
-<img src="https://drive.google.com/file/d/1J1GtTe5z5O4l8ukVwG0gk9HjZQxsqv-2/view?usp=drive_link" width="150" style="border-radius: 50%;"/>
+<img src="https://drive.google.com/uc?export=view&id=1J1GtTe5z5O4l8ukVwG0gk9HjZQxsqv-2" width="150" style="border-radius: 50%;"/>
 
 </td>
 </tr>
