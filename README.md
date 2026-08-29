@@ -26,12 +26,6 @@
 - ❓ Ask me about **n8n, AI Agents, Voice AI (Retell/Twilio), RAG pipelines, or GoHighLevel automation**
 - ⚡ Fun fact: I'd rather build a working automation than write a to-do list
 
-</td>
-<td valign="middle" width="40%" align="center">
-
-<img src="https://drive.google.com/uc?export=view&id=1J1GtTe5z5O4l8ukVwG0gk9HjZQxsqv-2" width="300" height="350" style="border-radius: 50%; object-fit: cover;"/>
-
-</td>
 </tr>
 </table>
 
