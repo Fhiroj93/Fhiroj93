@@ -106,6 +106,17 @@ Production-grade AI social media automation platform for a Netherlands-based con
 </tr>
 
 <tr>
+<td><b>☀️ Maharshi Solar — Business Automation</b></td>
+<td>
+White-label AI business automation system combining an AI voice agent, WhatsApp AI bot, Zoho CRM integration, automated lead management, follow-ups, analytics, and a centralized client dashboard.
+<br><br>
+<b>Stack:</b> AI Voice • WhatsApp AI • Zoho • n8n • Analytics
+<br>
+<a href="https://www.youtube.com/watch?v=bjyj_OCixf0">Video Demo</a>
+</td>
+</tr>
+
+<tr>
 <td><b>📊 SocialVert</b></td>
 <td>
 Real-time client content operations platform built for a social media agency managing 40+ clients. Provides separate manager and client dashboards for content planning, scripts, approvals, scheduling, analytics, and automated publishing.
@@ -178,17 +189,6 @@ White-label AI receptionist and chatbot platform for dental clinics with 5 speci
 <br>
 <a href="https://dental5aisystem.netlify.app/">Live Demo</a> •
 <a href="https://www.youtube.com/watch?v=v5rJ1Gu8Odc">Video Demo</a>
-</td>
-</tr>
-
-<tr>
-<td><b>☀️ Maharshi Solar — AI Automation</b></td>
-<td>
-White-label AI business automation system combining an AI voice agent, WhatsApp AI bot, Zoho CRM integration, automated lead management, follow-ups, analytics, and a centralized client dashboard.
-<br><br>
-<b>Stack:</b> AI Voice • WhatsApp AI • Zoho • n8n • Analytics
-<br>
-<a href="https://www.youtube.com/watch?v=bjyj_OCixf0">Video Demo</a>
 </td>
 </tr>
 
