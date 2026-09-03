@@ -83,20 +83,113 @@
 <table align="center" width="100%">
 
 <tr>
-<td width="20%"><b>🏨 BookdOut</b></td>
-<td>AI-powered automated booking pipeline for premium event venues — voice agents, lead capture, and CRM sync built end-to-end on GoHighLevel.</td>
+<td width="22%"><b>🔗 LinkOps</b></td>
+<td>
+AI-powered LinkedIn content automation platform that monitors profiles and company pages, evaluates posts with AI, rewrites content in brand voice, manages approvals, publishes automatically, and feeds real engagement data back into weekly recommendations.
+<br><br>
+<b>Stack:</b> AI • n8n • LinkedIn APIs • Automation • Analytics
+<br>
+<a href="https://linkops.netlify.app/">Live Demo</a> •
+<a href="https://www.youtube.com/watch?v=kcOjB7OWIng">Video Demo</a>
+</td>
 </tr>
+
 <tr>
-<td width="20%"><b>🎬 SocialClips</b></td>
-<td>Full SaaS video-marketing platform for a Dutch agency — Lovable dashboard, 11-table Supabase backend, and 6 n8n workflows powering multi-platform publishing.</td>
+<td><b>🎬 SocialClips</b></td>
+<td>
+Production-grade AI social media automation platform for a Netherlands-based content agency. Automates the complete workflow from video upload → AI captions → approvals → scheduling → multi-platform publishing → analytics.
+<br><br>
+<b>Stack:</b> n8n • OpenAI • Supabase • Lovable • UploadPost API
+<br>
+<a href="https://youtu.be/URK2gRdfVHo">Video Demo</a>
+</td>
 </tr>
+
 <tr>
-<td width="20%"><b>📧 Fix My Fees</b></td>
-<td>AI SDR system that runs cold outreach end-to-end — Instantly → Claude → GoHighLevel, qualifying leads and booking calls with zero human touch.</td>
+<td><b>📊 SocialVert</b></td>
+<td>
+Real-time client content operations platform built for a social media agency managing 40+ clients. Provides separate manager and client dashboards for content planning, scripts, approvals, scheduling, analytics, and automated publishing.
+<br><br>
+<b>Stack:</b> React • Node.js • Tailwind CSS • Real-time Sync • Netlify
+<br>
+<a href="https://mycontentos.netlify.app/">Live Demo</a> •
+<a href="https://social-vert.netlify.app/">Platform Demo</a> •
+<a href="https://youtu.be/WONDg9ZbGrI">Video Demo</a>
+</td>
 </tr>
+
 <tr>
-<td width="20%"><b>🦷 CFO Dental</b></td>
-<td>Bookkeeping automation connecting Dext, QuickBooks Online, and BILL.com to eliminate manual reconciliation for a dental accounting client.</td>
+<td><b>⚡ PostFloww</b></td>
+<td>
+End-to-end AI content distribution engine that collects content from RSS, blogs, YouTube, and manual submissions, transforms it into social posts, routes it through approval workflows, schedules publishing, and tracks performance automatically.
+<br><br>
+<b>Stack:</b> n8n • OpenAI • APIs • Webhooks • Social Media APIs
+<br>
+<a href="https://postfloww-dash.netlify.app/">Live Demo</a>
+</td>
+</tr>
+
+<tr>
+<td><b>🧠 ContentOS</b></td>
+<td>
+AI-powered content command center that monitors competitors and trends, generates daily content ideas, writes posts in a brand voice, manages approvals, publishes through social APIs, and feeds performance data back into the content strategy.
+<br><br>
+<b>Stack:</b> Lovable • n8n • Apify • Claude • UploadPost API • Google Sheets
+<br>
+<a href="https://mycontentos.netlify.app/">Live Demo</a>
+</td>
+</tr>
+
+<tr>
+<td><b>📞 Panacea Homes — AI SDR</b></td>
+<td>
+Complete AI SDR system automating lead capture, qualification, calling, follow-ups, appointment booking, CRM updates, and re-engagement. Built to reduce lead response time from hours to seconds and scale sales without additional SDR headcount.
+<br><br>
+<b>Stack:</b> n8n • OpenAI • Retell AI • Twilio • GoHighLevel • Supabase
+<br>
+<a href="https://www.youtube.com/watch?v=AhKdIs_4FGY">Client Testimonial</a>
+</td>
+</tr>
+
+<tr>
+<td><b>🏠 RoHo Roofing — AI Receptionist</b></td>
+<td>
+24/7 AI voice receptionist and SDR system with 5 specialized voice agents handling inbound calls, outbound lead qualification, bookings, rescheduling, cancellations, support, emergency escalation, SMS conversations, and automated follow-ups.
+<br><br>
+<b>Stack:</b> n8n • Retell AI • OpenAI • GoHighLevel • Twilio • Cal.com • Lovable
+</td>
+</tr>
+
+<tr>
+<td><b>📞 Harp&Code — AI Voice Agent</b></td>
+<td>
+AI voice automation system that captures leads, initiates outbound calls, qualifies prospects, handles objections, books appointments directly into live calendars, sends SMS reminders, analyzes calls, and syncs CRM data.
+<br><br>
+<b>Stack:</b> n8n • Retell AI • OpenAI • Claude • Cal.com • Google Sheets
+</td>
+</tr>
+
+<tr>
+<td><b>🦷 Dental5 AI System</b></td>
+<td>
+White-label AI receptionist and chatbot platform for dental clinics with 5 specialized voice agents covering new patient intake, existing care, recalls, campaigns, and reminders — including missed-call recovery and automated outbound recall campaigns.
+<br><br>
+<b>Stack:</b> AI Voice Agents • Twilio • n8n • Zapier • Google Calendar API • CRM/PMS Integrations
+<br>
+<a href="https://dental5aisystem.netlify.app/">Live Demo</a> •
+<a href="https://www.youtube.com/watch?v=v5rJ1Gu8Odc">Video Demo</a>
+</td>
+</tr>
+
+<tr>
+<td><b>☀️ Maharshi Solar — AI Automation</b></td>
+<td>
+White-label AI business automation system combining an AI voice agent, WhatsApp AI bot, Zoho CRM integration, automated lead management, follow-ups, analytics, and a centralized client dashboard.
+<br><br>
+<b>Stack:</b> AI Voice • WhatsApp AI • Zoho • n8n • Analytics
+<br>
+<a href="https://www.youtube.com/watch?v=bjyj_OCixf0">Video Demo</a>
+</td>
 </tr>
 
 </table>
