@@ -22,7 +22,7 @@
 - 🎓 B.Tech student at **NIT Raipur**, shipping production client work alongside my degree
 - 🤖 I design and deploy end-to-end AI systems: voice agents, AI SDRs, RAG-powered support bots, and full CRM automations
 - 🧠 Currently deepening my full-stack + database fundamentals — React/Node internals, SQL, and system design
-- 📚 I teach AI Automation to 100+ students and 5K+ YouTube subscribers on **MOFI AI**
+- 📚 I teach AI Automation to 200+ students and 5K+ YouTube subscribers on **MOFI AI**
 - ❓ Ask me about **n8n, AI Agents, Voice AI (Retell/Twilio), RAG pipelines, or GoHighLevel automation**
 - ⚡ Fun fact: I'd rather build a working automation than write a to-do list
 
