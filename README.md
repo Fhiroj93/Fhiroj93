@@ -203,7 +203,8 @@ White-label AI receptionist and chatbot platform for dental clinics with 5 speci
 I teach everything I build — **n8n, AI Agents, Voice AI, RAG, and deployment best practices** — to a growing community of builders.
 
 [![YouTube](https://img.shields.io/badge/MOFI%20AI-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mofiai123-f)
-[![Course](https://img.shields.io/badge/AI%20Automation%20Course-100%2B%20Students-00C4B4?style=for-the-badge&logo=googleclassroom&logoColor=white)](https://superprofile.bio/course/mofiai)
+[![n8n Course](https://img.shields.io/badge/AI%20Automation%20Course-100%2B%20Students-00C4B4?style=for-the-badge&logo=googleclassroom&logoColor=white)](https://superprofile.bio/course/mofiai)
+[![Claude Course](https://img.shields.io/badge/Claude%20Course-100%2B%20Students-00C4B4?style=for-the-badge&logo=googleclassroom&logoColor=white)](https://superprofile.bio/course/mofiai-claudeai-course)
 
 </div>
 
