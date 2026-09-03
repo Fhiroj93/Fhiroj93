@@ -152,7 +152,7 @@ AI-powered content command center that monitors competitors and trends, generate
 </tr>
 
 <tr>
-<td><b>📞 Panacea Homes — AI SDR</b></td>
+<td><b>📞 Panacea Homes — AI SDR System</b></td>
 <td>
 Complete AI SDR system automating lead capture, qualification, calling, follow-ups, appointment booking, CRM updates, and re-engagement. Built to reduce lead response time from hours to seconds and scale sales without additional SDR headcount.
 <br><br>
@@ -163,7 +163,7 @@ Complete AI SDR system automating lead capture, qualification, calling, follow-u
 </tr>
 
 <tr>
-<td><b>🏠 RoHo Roofing — AI Receptionist</b></td>
+<td><b>🏠 RoHo Roofing — AI Receptionist System</b></td>
 <td>
 24/7 AI voice receptionist and SDR system with 5 specialized voice agents handling inbound calls, outbound lead qualification, bookings, rescheduling, cancellations, support, emergency escalation, SMS conversations, and automated follow-ups.
 <br><br>
@@ -172,7 +172,7 @@ Complete AI SDR system automating lead capture, qualification, calling, follow-u
 </tr>
 
 <tr>
-<td><b>📞 Harp&Code — AI Voice Agent</b></td>
+<td><b>📞 Harp&Code — AI Voice Agent System</b></td>
 <td>
 AI voice automation system that captures leads, initiates outbound calls, qualifies prospects, handles objections, books appointments directly into live calendars, sends SMS reminders, analyzes calls, and syncs CRM data.
 <br><br>
