@@ -37,29 +37,40 @@
 <tr><td valign="top" width="50%">
 
 ### 🤖 AI & Automation
+
 <p align="left">
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 <img src="https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-4B0082?style=for-the-badge&logo=databricks&logoColor=white"/>
 <img src="https://img.shields.io/badge/Retell%20AI-1A1A2E?style=for-the-badge&logo=airplayaudio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white"/>
 <img src="https://img.shields.io/badge/GoHighLevel-0E76A8?style=for-the-badge&logo=googleearth&logoColor=white"/>
 <img src="https://img.shields.io/badge/WhatsApp%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vector%20DBs%20%2F%20RAG-4B0082?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
 
 ### 🖥️ Full-Stack Development
+
 <p align="left">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,html,css,tailwind"/><br/>
-<img src="https://img.shields.io/badge/Lovable-FF6B6B?style=for-the-badge&logo=lovable&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,html,css,tailwind,fastapi"/><br/>
+</p>
+
+### 🧠 AI-Powered Development
+
+<p align="left">
 <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lovable-FF6B6B?style=for-the-badge&logo=lovable&logoColor=white"/>
 </p>
 
 </td><td valign="top" width="50%">
 
 ### 🗄️ Databases & Backend
+
 <p align="left">
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,supabase,firebase"/><br/>
 <img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white"/>
@@ -68,15 +79,26 @@
 <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
 </p>
 
-### ⚙️ DevOps & Tools
+### ⚙️ DevOps & Developer Tools
+
 <p align="left">
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash,vscode,postman"/>
+</p>
+
+### 🔌 APIs & Integrations
+
+<p align="left">
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Webhooks-FF6F00?style=for-the-badge&logo=webhooks&logoColor=white"/>
+<img src="https://img.shields.io/badge/OAuth-3C3C3D?style=for-the-badge&logo=oauth&logoColor=white"/>
+<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
 </p>
 
 </td></tr>
 </table>
 
 <br/>
+
 
 ## 🚀 Featured Projects
 
