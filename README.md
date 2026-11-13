@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+production-ready+AI+automation+systems;n8n+%7C+AI+Agents+%7C+Voice+AI+%7C+RAG+%7C+Full-Stack;2%2B+years+turning+manual+ops+into+autonomous+workflows;Teaching+100%2B+students+how+to+build+with+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+production-ready+AI+automation+systems;n8n+%7C+AI+Agents+%7C+Voice+AI+%7C+RAG+%7C+Full-Stack;2%2B+years+turning+manual+ops+into+autonomous+workflows;Teaching+1000%2B+students+how+to+build+with+AI)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,14 +18,15 @@
 
 ### 👨‍💻 About Me
 
-- 🚀 Founder of **[MOFI AI](https://www.mofiai.com)**, building AI agents & automation systems for businesses worldwide
+- 🚀 Founder of **[MOFI AI](https://www.mofiai.com)**, building AI agents and automation systems for businesses worldwide
 - 🎓 B.Tech student at **NIT Raipur**, shipping production client work alongside my degree
 - 🤖 I design and deploy end-to-end AI systems: voice agents, AI SDRs, RAG-powered support bots, and full CRM automations
-- 🧠 Currently deepening my full-stack + database fundamentals — React/Node internals, SQL, and system design
-- 📚 I teach AI Automation to 200+ students and 5K+ YouTube subscribers on **MOFI AI**
-- ❓ Ask me about **n8n, AI Agents, Voice AI (Retell/Twilio), RAG pipelines, or GoHighLevel automation**
+- 🧠 Currently deepening my full-stack and database fundamentals — React/Node internals, SQL, and system design
+- 📚 I teach AI Automation to **1000+ students** and create content for a growing community across **MOFI AI (6K+ YouTube subscribers)**, **Fhiroj AI (2K+ YouTube subscribers)**, and **Instagram (13K+ followers)**
+- ❓ Ask me about **n8n, AI Agents, Voice AI, RAG pipelines, or GoHighLevel automation**
 - ⚡ Fun fact: I'd rather build a working automation than write a to-do list
 
+</td>
 </tr>
 </table>
 
@@ -34,7 +35,8 @@
 ## 🧰 Tech Stack
 
 <table align="center" width="100%">
-<tr><td valign="top" width="50%">
+<tr>
+<td valign="top" width="50%">
 
 ### 🤖 AI & Automation
 
@@ -56,7 +58,7 @@
 ### 🖥️ Full-Stack Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,html,css,tailwind,fastapi"/><br/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,html,css,tailwind,fastapi"/>
 </p>
 
 ### 🧠 AI-Powered Development
@@ -67,12 +69,15 @@
 <img src="https://img.shields.io/badge/Lovable-FF6B6B?style=for-the-badge&logo=lovable&logoColor=white"/>
 </p>
 
-</td><td valign="top" width="50%">
+</td>
+
+<td valign="top" width="50%">
 
 ### 🗄️ Databases & Backend
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,supabase,firebase"/><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,supabase,firebase"/>
+<br/>
 <img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
 <img src="https://img.shields.io/badge/Zoho-C8202F?style=for-the-badge&logo=zoho&logoColor=white"/>
@@ -94,11 +99,11 @@
 <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
 </p>
 
-</td></tr>
+</td>
+</tr>
 </table>
 
 <br/>
-
 
 ## 🚀 Featured Projects
 
@@ -108,9 +113,9 @@
 <td width="22%"><b>🔗 LinkOps</b></td>
 <td>
 AI-powered LinkedIn content automation platform that monitors profiles and company pages, evaluates posts with AI, rewrites content in brand voice, manages approvals, publishes automatically, and feeds real engagement data back into weekly recommendations.
-<br><br>
+<br/><br/>
 <b>Stack:</b> AI • n8n • LinkedIn APIs • Automation • Analytics
-<br>
+<br/>
 <a href="https://linkops.netlify.app/">Live Demo</a> •
 <a href="https://www.youtube.com/watch?v=kcOjB7OWIng">Video Demo</a>
 </td>
@@ -120,9 +125,9 @@ AI-powered LinkedIn content automation platform that monitors profiles and compa
 <td><b>🎬 SocialClips</b></td>
 <td>
 Production-grade AI social media automation platform for a Netherlands-based content agency. Automates the complete workflow from video upload → AI captions → approvals → scheduling → multi-platform publishing → analytics.
-<br><br>
+<br/><br/>
 <b>Stack:</b> n8n • OpenAI • Supabase • Lovable • UploadPost API
-<br>
+<br/>
 <a href="https://youtu.be/URK2gRdfVHo">Video Demo</a>
 </td>
 </tr>
@@ -131,9 +136,9 @@ Production-grade AI social media automation platform for a Netherlands-based con
 <td><b>☀️ Maharshi Solar — Business Automation</b></td>
 <td>
 White-label AI business automation system combining an AI voice agent, WhatsApp AI bot, Zoho CRM integration, automated lead management, follow-ups, analytics, and a centralized client dashboard.
-<br><br>
+<br/><br/>
 <b>Stack:</b> AI Voice • WhatsApp AI • Zoho • n8n • Analytics
-<br>
+<br/>
 <a href="https://www.youtube.com/watch?v=bjyj_OCixf0">Video Demo</a>
 </td>
 </tr>
@@ -142,9 +147,9 @@ White-label AI business automation system combining an AI voice agent, WhatsApp 
 <td><b>📊 SocialVert</b></td>
 <td>
 Real-time client content operations platform built for a social media agency managing 40+ clients. Provides separate manager and client dashboards for content planning, scripts, approvals, scheduling, analytics, and automated publishing.
-<br><br>
+<br/><br/>
 <b>Stack:</b> React • Node.js • Tailwind CSS • Real-time Sync • Netlify
-<br>
+<br/>
 <a href="https://mycontentos.netlify.app/">Live Demo</a> •
 <a href="https://social-vert.netlify.app/">Platform Demo</a> •
 <a href="https://youtu.be/WONDg9ZbGrI">Video Demo</a>
@@ -155,9 +160,9 @@ Real-time client content operations platform built for a social media agency man
 <td><b>⚡ PostFloww</b></td>
 <td>
 End-to-end AI content distribution engine that collects content from RSS, blogs, YouTube, and manual submissions, transforms it into social posts, routes it through approval workflows, schedules publishing, and tracks performance automatically.
-<br><br>
+<br/><br/>
 <b>Stack:</b> n8n • OpenAI • APIs • Webhooks • Social Media APIs
-<br>
+<br/>
 <a href="https://postfloww-dash.netlify.app/">Live Demo</a>
 </td>
 </tr>
@@ -166,9 +171,9 @@ End-to-end AI content distribution engine that collects content from RSS, blogs,
 <td><b>🧠 ContentOS</b></td>
 <td>
 AI-powered content command center that monitors competitors and trends, generates daily content ideas, writes posts in a brand voice, manages approvals, publishes through social APIs, and feeds performance data back into the content strategy.
-<br><br>
+<br/><br/>
 <b>Stack:</b> Lovable • n8n • Apify • Claude • UploadPost API • Google Sheets
-<br>
+<br/>
 <a href="https://mycontentos.netlify.app/">Live Demo</a>
 </td>
 </tr>
@@ -177,9 +182,9 @@ AI-powered content command center that monitors competitors and trends, generate
 <td><b>📞 Panacea Homes — AI SDR System</b></td>
 <td>
 Complete AI SDR system automating lead capture, qualification, calling, follow-ups, appointment booking, CRM updates, and re-engagement. Built to reduce lead response time from hours to seconds and scale sales without additional SDR headcount.
-<br><br>
+<br/><br/>
 <b>Stack:</b> n8n • OpenAI • Retell AI • Twilio • GoHighLevel • Supabase
-<br>
+<br/>
 <a href="https://www.youtube.com/watch?v=AhKdIs_4FGY">Client Testimonial</a>
 </td>
 </tr>
@@ -187,8 +192,8 @@ Complete AI SDR system automating lead capture, qualification, calling, follow-u
 <tr>
 <td><b>🏠 RoHo Roofing — AI Receptionist System</b></td>
 <td>
-24/7 AI voice receptionist and SDR system with 5 specialized voice agents handling inbound calls, outbound lead qualification, bookings, rescheduling, cancellations, support, emergency escalation, SMS conversations, and automated follow-ups.
-<br><br>
+24/7 AI voice receptionist and SDR system with five specialized voice agents handling inbound calls, outbound lead qualification, bookings, rescheduling, cancellations, support, emergency escalation, SMS conversations, and automated follow-ups.
+<br/><br/>
 <b>Stack:</b> n8n • Retell AI • OpenAI • GoHighLevel • Twilio • Cal.com • Lovable
 </td>
 </tr>
@@ -197,7 +202,7 @@ Complete AI SDR system automating lead capture, qualification, calling, follow-u
 <td><b>📞 Harp&Code — AI Voice Agent System</b></td>
 <td>
 AI voice automation system that captures leads, initiates outbound calls, qualifies prospects, handles objections, books appointments directly into live calendars, sends SMS reminders, analyzes calls, and syncs CRM data.
-<br><br>
+<br/><br/>
 <b>Stack:</b> n8n • Retell AI • OpenAI • Claude • Cal.com • Google Sheets
 </td>
 </tr>
@@ -205,10 +210,10 @@ AI voice automation system that captures leads, initiates outbound calls, qualif
 <tr>
 <td><b>🦷 Dental5 AI System</b></td>
 <td>
-White-label AI receptionist and chatbot platform for dental clinics with 5 specialized voice agents covering new patient intake, existing care, recalls, campaigns, and reminders — including missed-call recovery and automated outbound recall campaigns.
-<br><br>
+White-label AI receptionist and chatbot platform for dental clinics with five specialized voice agents covering new patient intake, existing care, recalls, campaigns, and reminders — including missed-call recovery and automated outbound recall campaigns.
+<br/><br/>
 <b>Stack:</b> AI Voice Agents • Twilio • n8n • Zapier • Google Calendar API • CRM/PMS Integrations
-<br>
+<br/>
 <a href="https://dental5aisystem.netlify.app/">Live Demo</a> •
 <a href="https://www.youtube.com/watch?v=v5rJ1Gu8Odc">Video Demo</a>
 </td>
@@ -222,11 +227,31 @@ White-label AI receptionist and chatbot platform for dental clinics with 5 speci
 
 <div align="center">
 
-I teach everything I build — **n8n, AI Agents, Voice AI, RAG, and deployment best practices** — to a growing community of builders.
+I teach everything I build — **n8n, AI Agents, Voice AI, RAG, and deployment best practices** — to a growing community of **1000+ students and builders**.
 
-[![YouTube](https://img.shields.io/badge/MOFI%20AI-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mofiai123-f)
-[![n8n Course](https://img.shields.io/badge/AI%20Automation%20Course(n8n)-200%2B%20Students-00C4B4?style=for-the-badge&logo=googleclassroom&logoColor=white)](https://superprofile.bio/course/mofiai)
-[![Claude Course](https://img.shields.io/badge/Claude%20Course-50%2B%20Students-00C4B4?style=for-the-badge&logo=googleclassroom&logoColor=white)](https://superprofile.bio/course/mofiai-claudeai-course)
+<br/>
+
+<a href="https://youtube.com/@mofiai123-f">
+<img src="https://img.shields.io/badge/MOFI%20AI-6K%2B%20Subscribers-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@lwf_123f">
+<img src="https://img.shields.io/badge/Fhiroj%20AI-2K%2B%20Subscribers-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/learn.with.fhiroj/">
+<img src="https://img.shields.io/badge/Instagram-13K%2B%20Followers-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<a href="https://superprofile.bio/course/mofiai">
+<img src="https://img.shields.io/badge/AI%20Automation%20Course(n8n)-1000%2B%20Students-00C4B4?style=for-the-badge&logo=googleclassroom&logoColor=white"/>
+</a>
+
+<a href="https://superprofile.bio/course/mofiai-claudeai-course">
+<img src="https://img.shields.io/badge/Claude%20Course-50%2B%20Students-00C4B4?style=for-the-badge&logo=googleclassroom&logoColor=white"/>
+</a>
 
 </div>
 
@@ -245,9 +270,25 @@ I teach everything I build — **n8n, AI Agents, Voice AI, RAG, and deployment b
 
 <div align="center">
 
-<a href="https://github.com/Fhiroj93" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://linkedin.com/in/fhiroj-shaik-020760355" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://youtube.com/@mofiai123-f" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://github.com/Fhiroj93" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/fhiroj-shaik-020760355" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://youtube.com/@mofiai123-f" target="_blank">
+<img src="https://img.shields.io/badge/MOFI%20AI-6K%2B-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@lwf_123f" target="_blank">
+<img src="https://img.shields.io/badge/Fhiroj%20AI-2K%2B-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/learn.with.fhiroj/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-13K%2B-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
 </div>
 
