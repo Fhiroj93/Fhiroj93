@@ -18,7 +18,7 @@
 
 ### 👨‍💻 About Me
 
-- 🚀 Founder of **[MOFI AI](https://youtube.com/@mofiai123-f)**, building AI agents & automation systems for businesses worldwide
+- 🚀 Founder of **[MOFI AI](https://www.mofiai.com)**, building AI agents & automation systems for businesses worldwide
 - 🎓 B.Tech student at **NIT Raipur**, shipping production client work alongside my degree
 - 🤖 I design and deploy end-to-end AI systems: voice agents, AI SDRs, RAG-powered support bots, and full CRM automations
 - 🧠 Currently deepening my full-stack + database fundamentals — React/Node internals, SQL, and system design
